@@ -4,7 +4,7 @@
 
 ## 🔥 News
 
-- 2025-03-25: Our paper with supplementary material [Attention Specialty for Diffusion Transformers](https://arxiv.org/abs/) is now available on arXiv.
+- 2025-03-25: Our paper with supplementary material [Attention Specialty for Diffusion Transformers](https://arxiv.org/abs/2504.10148) is now available on arXiv.
 - 2025-03-25: We release the code!
 
 
