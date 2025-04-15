@@ -1,6 +1,6 @@
 # Hierarchical and Step-Layer-Wise Tuning of Attention Specialty for Multi-Instance Synthesis in Diffusion Transformers 🎨
 
-[[Project Page]](https://github.com/bitzhangcy/MIS_DiT) [[Paper]](https://arxiv.org/abs/2503.) 
+[[Project Page]](https://github.com/bitzhangcy/MIS_DiT) [[Paper]](https://arxiv.org/abs/2504.10148) 
 
 ## 🔥 News
 
